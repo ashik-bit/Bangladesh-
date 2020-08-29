@@ -2,7 +2,7 @@
 #coding=utf-8
 #Author Angga Kurniawan
 #Ngapain??
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
+
 os.system('rm -rf .txt')
 for n in range(1000):
 
@@ -52,23 +52,28 @@ def t():
 def cb():
     os.system('clear')
 ##### LOGO #####
-logo='''
-\033[1;97m███████╗░█████╗░██████╗░██╗██╗░░░██╗░█████╗░
-\033[1;97m██╔════╝██╔══██╗██╔══██╗██║╚██╗░██╔╝██╔══██╗
-\033[1;97m█████╗░░███████║██████╔╝██║░╚████╔╝░███████║
-\033[1;97m██╔══╝░░██╔══██║██╔══██╗██║░░╚██╔╝░░██╔══██║
-\033[1;97m██║░░░░░██║░░██║██║░░██║██║░░░██║░░░██║░░██║
-\033[1;97m╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝
-\033[1;97m   𝑭𝑨𝑹𝑰𝒀𝑨 𝑲𝑯𝑨𝑵 𝑶𝑭𝑭𝑰𝑪𝑰𝑨𝑳                  
+logo=''
+\033[1;97m░█████╗░  ░█████╗░███╗░░██╗██╗░░░██╗
+\033[1;97m██╔══██╗  ██╔══██╗████╗░██║██║░░░██║
+\033[1;97m███████║  ███████║██╔██╗██║██║░░░██║
+\033[1;97m██╔══██║  ██╔══██║██║╚████║██║░░░██║
+\033[1;97m██║░░██║  ██║░░██║██║░╚███║╚██████╔╝
+\033[1;97m╚═╝░░╚═╝  ╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░
+
+
+
+
+
+\033[1;97m   ASHIK & LEJON KHAN OFFICIALS               
 \033[1;97m--------------------------------------------------
-\033[1;97m➣ Author   : FARIYA KHAN   
+\033[1;97m➣ Author   : AYMAN AHMED ASHIK
 \033[1;97m➣ Version  : V1.1.1
-\033[1;97m➣ Facebook : m.facebook.com/faritricker007
+\033[1;97m➣ Facebook : m.facebook.com/aashikbanaya.aa10
 \033[1;97m➣ Help     : Any Help Contact Me On Facebook.
 \033[1;97m--------------------------------------------------
                                 '''
-CorrectUsername = "FARIYA"
-CorrectPassword = "KHAN"
+CorrectUsername = "ASHIK"
+CorrectPassword = "LEJON"
 
 os.system('clear')
 print logo
